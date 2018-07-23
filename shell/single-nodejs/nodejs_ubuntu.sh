@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 ########### 脚本信息 ###########
-# 用户：Bon
-# 邮箱：bon@utai.io
+# Author：Bon
+# Email：bon@utai.io
 # GitHub：Quorafind@github.com
+# Date：2018-7-23
+# What：Ubuntu下编译安装 nodejs 
 ###############################
 
 echo "Please input the version number you need: "
